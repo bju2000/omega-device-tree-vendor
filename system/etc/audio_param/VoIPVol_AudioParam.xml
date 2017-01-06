@@ -10,7 +10,7 @@
   <ParamUnitPool>
     <ParamUnit param_id="0">
       <Param name="dl_gain" value="22,19,16,13,10,7,4"/>
-      <Param name="ul_gain" value="28"/>
+      <Param name="ul_gain" value="27"/>
     </ParamUnit>
     <ParamUnit param_id="1">
       <Param name="dl_gain" value="27,24,21,18,15,12,9"/>
@@ -21,8 +21,8 @@
       <Param name="ul_gain" value="28"/>
     </ParamUnit>
     <ParamUnit param_id="3">
-      <Param name="dl_gain" value="23,20,17,12,8,5,2"/>
-      <Param name="ul_gain" value="28"/>
+      <Param name="dl_gain" value="20,17,14,11,8,5,2"/>
+      <Param name="ul_gain" value="27"/>
     </ParamUnit>
   </ParamUnitPool>
 </AudioParam>

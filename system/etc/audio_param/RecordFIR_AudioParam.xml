@@ -2,6 +2,8 @@
 <AudioParam version="1.0">
   <ParamTree>
     <Param path="" param_id="0"/>
+    <Param path="SndRecLecture,Handset" param_id="0"/>
+    <Param path="SndRecMeeting,Handset" param_id="0"/>
     <Param path="SndRecNormal,4-pole HS" param_id="1"/>
   </ParamTree>
   <ParamUnitPool>
